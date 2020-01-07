@@ -1,5 +1,10 @@
 # Drum-Machine
 
+## Technology Used 
+1. React.js
+2. CSS
+3. HTML5
+
 ## User Stories 
 
 User Story #1: I should be able to see an outer container with a corresponding id="drum-machine" that contains all other elements.
@@ -19,3 +24,7 @@ User Story #7: When a .drum-pad is triggered, a string describing the associated
 ### Picture of Drum Machine 
 
 ![Picture of working APP](./drum-pic.png)
+
+## Giphy of working Drum Machine
+
+![Giph of working APP](./drum-giphy.gif)
